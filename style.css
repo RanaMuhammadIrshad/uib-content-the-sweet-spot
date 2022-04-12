@@ -1,0 +1,8 @@
+div ul li:hover {
+   list-style-type: circle;
+   background-color: lightblue
+   
+}
+a:hover{
+    color: red;
+}
